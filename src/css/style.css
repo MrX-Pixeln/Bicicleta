@@ -1,0 +1,20 @@
+/* === Estilos Globais === */
+@import url('globals.css');
+@import url('header.css');
+@import url('responsividade.css');
+
+/* === Utilitários === */
+@import url('utilidades/cores.css');
+@import url('utilidades/tipografia.css');
+@import url('utilidades/componentes.css');
+
+/* === Páginas e Seções === */
+
+/* Home */
+@import url('home/introducao.css');
+@import url('home/tecnologia.css');
+@import url('home/parceiros.css');
+@import url('home/depoimento.css');
+
+/* Bicicletas */
+@import url('../../bicicletas/bicicletas-lista.css');
