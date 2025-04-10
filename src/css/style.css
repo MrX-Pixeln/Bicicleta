@@ -1,8 +1,7 @@
 /* === Estilos Globais === */
 @import url('globals.css');
 @import url('header.css');
-@import url('responsividade.css');
-
+@import url('footer.css');
 /* === Utilitários === */
 @import url('utilidades/cores.css');
 @import url('utilidades/tipografia.css');
@@ -18,3 +17,6 @@
 
 /* Bicicletas */
 @import url('../../bicicletas/bicicletas-lista.css');
+
+/* Seguros */
+@import url('../../seguros/seguros.css');
